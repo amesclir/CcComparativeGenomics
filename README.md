@@ -1,4 +1,8 @@
-[![DOI](https://sandbox.zenodo.org/badge/656144734.svg)](https://sandbox.zenodo.org/badge/latestdoi/656144734)
+
+
+[![DOI](https://zenodo.org/badge/656144734.svg)](https://zenodo.org/badge/latestdoi/656144734)
+
+
 
 Analysis scripts and data for Escudero et al. 2023 Conserved synteny despite massive chromosome fusion and fission suggest genomic hotspots of chromosomeal evolution in holocentric plants. Molecular Ecology
 DOI
